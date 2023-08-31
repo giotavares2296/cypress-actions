@@ -1,5 +1,3 @@
-![poster](./.github/poster.png)
-
 ## Sobre
 
 Repositório do treinamento: Workflow de testes contínuos em Cypress no Github Actions
